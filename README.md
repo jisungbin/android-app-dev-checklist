@@ -2,7 +2,7 @@
 
 완벽한 앱을 위한 체크리스트
 
-참고 자료: [pluu님의 코드 품질 1% 올리기](https://speakerdeck.com/pluu/kodeu-pumjil-1-percent-olrigi?slide=53) + 성빈의 주관적인 생각
+> 참고 자료: [pluu님의 코드 품질 1% 올리기](https://speakerdeck.com/pluu/kodeu-pumjil-1-percent-olrigi?slide=53) + 성빈의 주관적인 생각
 
 ---
 
